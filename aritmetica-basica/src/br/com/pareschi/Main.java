@@ -18,8 +18,8 @@ public class Main {
         int multiplicacao = numero1 * numero2;
 
         System.out.println(numero1 + " + " + numero2 + " = " + soma);
-        System.out.println(numero1 + " - " + numero2 + " = " +diferenca);
-        System.out.println(numero1 + " * " + numero2 + " = " +multiplicacao);
+        System.out.println(numero1 + " - " + numero2 + " = " + diferenca);
+        System.out.println(numero1 + " * " + numero2 + " = " + multiplicacao);
 
         System.out.println(numero1 + " to hexa: " + Integer.toHexString(numero1));
         System.out.println(numero1 + " to octal: " + Integer.toOctalString(numero1));
