@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/3POB.iml" filepath="$PROJECT_DIR$/.idea/3POB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apresentação/Apresentação.iml" filepath="$PROJECT_DIR$/Apresentação/Apresentação.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prática OBI/Prática OBI.iml" filepath="$PROJECT_DIR$/Prática OBI/Prática OBI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aritmetica-basica/aritmetica-basica.iml" filepath="$PROJECT_DIR$/aritmetica-basica/aritmetica-basica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media-ponderada/media-ponderada.iml" filepath="$PROJECT_DIR$/media-ponderada/media-ponderada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiro-projeto/primeiro-projeto.iml" filepath="$PROJECT_DIR$/primeiro-projeto/primeiro-projeto.iml" />
+    </modules>
+  </component>
+</project>
